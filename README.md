@@ -4,7 +4,7 @@ To jest kod źródłowy mojej osobistej strony internetowej, dostępnej pod adre
 
 ## Filozofia Projektu
 
-Projekt został stworzony w oparciu o kilka kluczowych zasad, które odzwierciedlają moje podejście do inżynierii oprogramowania i cyberbezpieczeństwa.
+Stronę zaprojektowałem zgodnie z kilkoma kluczowymi dla mnie zasadami z obszaru technologii i cyberbezpieczeństwa, a jej kod źródłowy jest w pełni otwarty do wglądu.
 
 * **🛡️ Bezpieczeństwo Przede Wszystkim (Security-First)**
     * Wdrożono restrykcyjną politykę **Content Security Policy (CSP)** z użyciem `nonce`, aby zapobiegać atakom XSS.
